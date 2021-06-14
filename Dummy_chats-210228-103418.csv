@@ -1,0 +1,81 @@
+Question,Intent,Response
+Hi how are you,Greeting,"I am good, how about you"
+"hey, how are you",Greeting,"I am good, how about you"
+"hey, how r u",Greeting,"I am good, how about you"
+hi how u doing,Greeting,"I am good, how about you"
+hey how are you doing,Greeting,"I am good, how about you"
+hey whatsup,Greeting,"I am good, how about you"
+hey how have you been,Greeting,"I am good, how about you"
+hey good morning,Greeting,"Good Morning, how are you"
+good morning,Greeting,"Good Morning, how are you"
+morning,Greeting,"Good Morning, how are you"
+"hi, morning",Greeting,"Good Morning, how are you"
+hello,Greeting,"hello, how are you"
+"hey, good evening",Greeting,"Good Evening, how are you"
+good evening,Greeting,"Good Evening, how are you"
+good day,Greeting,"Hey, How are you"
+hey guys,Greeting,Hey
+hey ,Greeting,Hey
+"hello, how are you",Greeting,"Hello, I am good, how are you"
+how do you do,Greeting,"I am doing fine, thanks you?"
+"good day, how do you do",Greeting,"I am doing fine, thanks you?"
+greetings of the day,Greeting,"Greeting, how are you"
+"aloha, whatsup?",Greeting,"aloha, I am good, how are you"
+how have you been,Greeting,"I am good, how about you"
+thank you,Good Bye,Thank you
+take care,Good Bye,Take care
+bye,Good Bye,Bye
+see ya,Good Bye,See you soon
+good night,Good Bye,Good Night
+tc,Good Bye,Take Care
+gn,Good Bye,Good Night
+cya,Good Bye,See you soon
+Thanks for the session,Good Bye,Thank you
+"it was amazing, thank you",Good Bye,Thank you
+Thanks for the amazing session,Good Bye,Thank you
+"Thanks, take care",Good Bye,"Thank you, you too"
+"it was amazing, thank you, take care",Good Bye,Thank you
+"it was mindblowing, take care bro",Good Bye,Thank you
+God Bless,Good Bye,"Thank you, bless you too"
+Be safe,Good Bye,"Be safe, thank you"
+"Be safe, good night",Good Bye,"Be safe, thank you"
+"it was epic, take care",Good Bye,Thank you
+meet soon,Good Bye,See you soon
+waiting for more,Good Bye,"Thank you, see you soon"
+cant wait to see you again,Good Bye,"Thank you, see you soon"
+best of luck,Good Bye,Thank you
+When is your next session,Session_Curiosity,Check out this schedule
+When do you perform next,Session_Curiosity,Check out this schedule
+What is the topic for the next session,Session_Curiosity,Check out this schedule
+What will you perform next,Session_Curiosity,Check out this schedule
+"It was lovely, what do you plan for the next",Session_Curiosity,Check out this schedule
+When is your next performance in IST,Session_Curiosity,Check out this schedule
+Where are you performing ,Session_Curiosity,Check out this schedule
+when shall we see you next,Session_Curiosity,Check out this schedule
+when are we hearing you again,Session_Curiosity,Soon. Check out this schedule
+when are you coming back,Session_Curiosity,Soon. Check out this schedule
+when shall we meet again,Session_Curiosity,Soon. Check out this schedule
+"this was wonderful, when next",Session_Curiosity,Soon. Check out this schedule
+What are your session charges,Session_Curiosity,Check out this link
+when shall we get to see you again bro,Session_Curiosity,Soon. Check out this schedule
+"this was wonderful, what next",Session_Curiosity,Check out my schedule
+"the music is so soothing, when shall we hear you again",Session_Curiosity,"Thank you, Check out my schedule"
+can we know your next plan,Session_Curiosity,"Sure, Check out my schedule"
+please post your next session timings again,Session_Curiosity,"Sure, here you go"
+cant wait for the next performance,Session_Curiosity,"Thank you, Check out my schedule"
+this platform is amazing,Session_Curiosity,Thank you
+"I will ask my friends to subscribe, when are you going to do this again",Session_Curiosity,"Thank you, Check out my schedule"
+are we going to see you again,Session_Curiosity,"Absolutely, Check out my schedule"
+when do you post your videos,Session_Curiosity,Mornings at 11 am
+when shall you post the videos,Session_Curiosity,Mornings at 11 am
+"this was great, cant wait to see you again",Session_Curiosity,Thank you
+what will you play next session,Session_Curiosity,"Check out my schedule, will keep you updated"
+what are you planning for next week,Session_Curiosity,Will keep you updated
+cant wait for the next performance,Session_Curiosity,"thanks bro, will keep you updated"
+eagerly waiting for the next session,Session_Curiosity,"Thank you, Check out my schedule"
+please post your timings again,Session_Curiosity,Check out my schedule here
+when are we meeting again,Session_Curiosity,Find my schedule here
+"this was wonderful, cant wait to listen to you",Session_Curiosity,"thank you, find my schedule here"
+"how are you doing this, this AR is awesome",Session_Curiosity,"Technology is amazing, check out my schedule here"
+"Kudos, can I perform?",Session_Curiosity,Yes absolutely
+"the music is enchanting, how can I listen continuously",Session_Curiosity,Subscribe here
